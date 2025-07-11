@@ -41,7 +41,5 @@ It’s a focused OS: clean, silent, and built only for running personal AI tools
 - AI: Simple model runners (WASM or Python bridge)
 - Interface: CLI only (no GUI planned initially)
 
----
 
-## 📁 Planned Folder Structure
 
