@@ -1,5 +1,5 @@
 
-# Shadowforge OS
+# shadowFORGE OS
 
 **Shadowforge** is a minimal operating system I'm building from scratch in Rust.
 
