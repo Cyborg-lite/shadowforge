@@ -1,7 +1,7 @@
 
-# shadowFORGE OS
+# Shadowforge OS
 
-**shadowFORGE** is a minimal operating system I'm building from scratch in Rust.
+**Shadowforge** is a minimal operating system I'm building from scratch in Rust.
 
 The goal is to create a lightweight OS designed only to:
 - 🧠 Run local AI models, agents, and tools
