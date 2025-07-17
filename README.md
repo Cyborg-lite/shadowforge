@@ -19,17 +19,16 @@ It’s a focused OS: clean, silent, and built only for running personal AI tools
 
 ---
 
-## 📆 6–7 Month Realistic Plan (as a Rust beginner)
+## 📆 6–7 Month Realistic Plan
 
 | Month | Focus                          | Goals                                                                 |
-|--------|--------------------------------|-----------------------------------------------------------------------|
-| 1      | 🦀 Learn Rust & OS Basics      | Complete Rustlings + Rust Book, understand `no_std`, `x86_64`, boot process |
-| 2      | 🔧 Bootable Kernel             | Write bootloader, print to screen, load Rust kernel in QEMU |
-| 3      | 🧱 Keyboard + Memory           | Input from keyboard, display output, build memory system |
-| 4      | 🐚 Shell + Filesystem          | Build minimal shell and load fake apps from disk |
-| 5      | 🧠 AI Layer (WASM/Python)      | Run basic AI logic using small models or agents |
-| 6      | 🧪 Test + Clean + Write Docs   | Clean code, write documentation, release alpha version |
-| 7      | ⏳ Buffer/Refine (Optional)    | Add polish, bug fixes, explore feedback or testing |
+|--------|--------------------------------|-----------------------------------------------------------------------
+| 1    | 🔧 Bootable Kernel             | Write bootloader, print to screen, load Rust kernel in QEMU |
+| 2      | 🧱 Keyboard + Memory           | Input from keyboard, display output, build memory system |
+| 3      | 🐚 Shell + Filesystem          | Build minimal shell and load fake apps from disk |
+| 4      | 🧠 AI Layer (WASM/Python)      | Run basic AI logic using small models or agents |
+| 5    | 🧪 Test + Clean + Write Docs   | Clean code, write documentation, release alpha version |
+| 6      | ⏳ Buffer/Refine (Optional)    | Add polish, bug fixes, explore feedback or testing |
 
 ---
 
